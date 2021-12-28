@@ -2,14 +2,14 @@
 body {
     position: sticky;
     box-sizing: border-box;
-    margin: 5px 0px 0px 0px;
+    margin: 5px 0px 10px 0px;
     padding: 0;
     background-color: #a9a9a9;
 }
 #main-container {
     max-width: 900px;
     width: 850px;
-    height: 1300px;
+    height: 1250px;
     margin: 0 auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 13px;
