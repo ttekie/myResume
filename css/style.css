@@ -76,5 +76,14 @@ p.major {
 section.profile > ul {
     margin: 10px 0px 5px 0px;
 }
+li a {
+    text-decoration: none;
+    font-size: 13px;
+    color: #000000
+}
+li a:hover {
+    color: #ff0000;
+}
+
  
  
